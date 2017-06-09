@@ -3,6 +3,8 @@
   <info>
     <title>SIPRI Style Guide - Note</title>
     <id>https://github.com/Droneroosje/Citations/blob/master/SIPRI-note.csl</id>
+    <link href="http://www.zotero.org/styles/chicago-author-date" rel="self"/>
+    <link href="http://www.chicagomanualofstyle.org/tools_citationguide.html" rel="documentation"/>
     <author>
       <name>Maaike Verbruggen</name>
       <email>contact@maaikeverbruggen.com</email>
